@@ -1,0 +1,18 @@
+.input {
+    display: flex;
+    width: 600px;
+    padding-bottom: 15px;
+}
+
+.input-title {
+    width: 30%;
+}
+
+.input-wrapper {
+    flex: 1;
+}
+
+body {
+    color: #fff;
+    background-color: rgb(101, 45, 255);
+}
